@@ -2,6 +2,8 @@
 <h3 align="center">A Designer & Developmenter With Revit</h3>
 
 - 👨‍💻 My Revit + Algorithm Bolgs: [https://github.com/imkcrevit/imkcrevit.github.io](https://github.com/imkcrevit/imkcrevit.github.io)
+-  Revit-MCP blogs : [https://github.com/revit-mcp/revit-mcp-dotnet](https://github.com/imkcrevit/revit-api-rag)
+- Revit-RAG blogs : [https://github.com/imkcrevit/revit-api-rag](https://github.com/imkcrevit/revit-api-rag)
 
 - 📫 How to reach me **scgq425@gmail.com**
 
